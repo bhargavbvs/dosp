@@ -47,7 +47,9 @@ Ratio( CPU to Real time) : 8.31216
 
 ## Coins with most number of zeroes
 We found a bitcoin with 7 leading zeroes with 1000 workers on a string of length 150.
+
 ![max_number_of_zeroes](https://user-images.githubusercontent.com/61014960/192126074-fda5a253-b766-44d9-94d6-0ab0398552dc.jpeg)
 
  ## Largest number of working machines
 
+The largest number of working machines we were able to test our code is 8
